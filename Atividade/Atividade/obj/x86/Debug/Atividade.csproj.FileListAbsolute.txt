@@ -1,0 +1,23 @@
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\bin\Debug\Atividade.exe
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\bin\Debug\Atividade.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+c:\users\lab\documents\visual studio 2010\Projects\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+D:\C#\Atividade\Atividade\bin\Debug\Atividade.exe
+D:\C#\Atividade\Atividade\bin\Debug\Atividade.pdb
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.csprojAssemblyReference.cache
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.Form1.resources
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.cache
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.CoreCompileInputs.cache
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+D:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+F:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+F:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+F:\C#\Atividade\Atividade\bin\Debug\Atividade.exe
+F:\C#\Atividade\Atividade\bin\Debug\Atividade.pdb
+F:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.Form1.resources
+F:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+F:\C#\Atividade\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache

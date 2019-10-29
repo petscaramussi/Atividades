@@ -1,0 +1,9 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\bin\Debug\Aula10_Janelass.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\bin\Debug\Aula10_Janelass.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.pdb
+C:\Users\LAB\Documents\Visual Studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.Janela1.resources
+C:\Users\LAB\Documents\Visual Studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.Janela2.resources
+C:\Users\LAB\Documents\Visual Studio 2010\Projects\Aula10_Janelass\Aula10_Janelass\obj\x86\Debug\Aula10_Janelass.csprojResolveAssemblyReference.cache

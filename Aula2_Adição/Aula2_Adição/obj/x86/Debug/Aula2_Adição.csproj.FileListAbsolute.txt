@@ -1,0 +1,4 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Adição\Aula2_Adição\bin\Debug\Aula2_Adição.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Adição\Aula2_Adição\bin\Debug\Aula2_Adição.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Adição\Aula2_Adição\obj\x86\Debug\Aula2_Adição.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Adição\Aula2_Adição\obj\x86\Debug\Aula2_Adição.pdb

@@ -1,0 +1,23 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.pdb
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.exe
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.pdb
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.exe
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.pdb
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Form1.resources
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Properties.Resources.resources
+C:\Users\LAB\Desktop\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.csproj.GenerateResource.Cache
+E:\C#\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.exe
+E:\C#\Aula3_Adicao\Aula3_Adicao\bin\Debug\Aula3_Adicao.pdb
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.csprojAssemblyReference.cache
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Form1.resources
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.Properties.Resources.resources
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.csproj.GenerateResource.cache
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.csproj.CoreCompileInputs.cache
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.exe
+E:\C#\Aula3_Adicao\Aula3_Adicao\obj\x86\Debug\Aula3_Adicao.pdb

@@ -1,0 +1,14 @@
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\bin\Debug\Desafio.001.exe
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\bin\Debug\Desafio.001.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\obj\x86\Debug\Desafio._001.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\obj\x86\Debug\Desafio._001.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.exe
+c:\users\lab\documents\visual studio 2010\Projects\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.pdb
+G:\C#\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.exe
+G:\C#\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.pdb
+G:\C#\Desafio.001\Desafio.001\bin\Debug\Desafio.001.exe
+G:\C#\Desafio.001\Desafio.001\bin\Debug\Desafio.001.pdb
+G:\C#\Desafio.001\Desafio.001\obj\x86\Debug\Desafio._001.Form1.resources
+G:\C#\Desafio.001\Desafio.001\obj\x86\Debug\Desafio._001.Properties.Resources.resources
+G:\C#\Desafio.001\Desafio.001\obj\x86\Debug\Desafio.001.csproj.GenerateResource.Cache

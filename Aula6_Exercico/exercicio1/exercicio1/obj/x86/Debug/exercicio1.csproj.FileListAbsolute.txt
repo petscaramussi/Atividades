@@ -1,0 +1,10 @@
+C:\Users\LAB\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\LAB\Desktop\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.Form1.resources
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.Properties.Resources.resources
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.exe
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.pdb
+C:\Users\LAB\Desktop\exercicio1\exercicio1\obj\x86\Debug\exercicio1.csprojResolveAssemblyReference.cache
+F:\C#\exercicios (Aula6)\exercicio1\exercicio1\obj\x86\Debug\exercicio1.exe
+F:\C#\exercicios (Aula6)\exercicio1\exercicio1\obj\x86\Debug\exercicio1.pdb

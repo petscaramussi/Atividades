@@ -1,0 +1,12 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_media\Aula2_media\bin\Debug\Aula2_media.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_media\Aula2_media\bin\Debug\Aula2_media.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.pdb
+F:\C#\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.exe
+F:\C#\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.pdb
+F:\C#\Aula2_media\Aula2_media\bin\Debug\Aula2_media.exe
+F:\C#\Aula2_media\Aula2_media\bin\Debug\Aula2_media.pdb
+G:\C#\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.exe
+G:\C#\Aula2_media\Aula2_media\obj\x86\Debug\Aula2_media.pdb
+G:\C#\Aula2_media\Aula2_media\bin\Debug\Aula2_media.exe
+G:\C#\Aula2_media\Aula2_media\bin\Debug\Aula2_media.pdb

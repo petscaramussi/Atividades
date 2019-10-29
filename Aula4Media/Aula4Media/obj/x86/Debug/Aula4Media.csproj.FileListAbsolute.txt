@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\bin\Debug\Aula4Media.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\bin\Debug\Aula4Media.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\obj\x86\Debug\Aula4Media.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\obj\x86\Debug\Aula4Media.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\obj\x86\Debug\Aula4Media.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\obj\x86\Debug\Aula4Media.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula4Media\Aula4Media\obj\x86\Debug\Aula4Media.pdb

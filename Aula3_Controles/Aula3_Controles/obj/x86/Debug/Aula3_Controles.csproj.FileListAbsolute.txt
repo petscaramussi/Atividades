@@ -1,0 +1,7 @@
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\bin\Debug\Aula3_Controles.exe
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\bin\Debug\Aula3_Controles.pdb
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\obj\x86\Debug\Aula3_Controles.Form1.resources
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\obj\x86\Debug\Aula3_Controles.Properties.Resources.resources
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\obj\x86\Debug\Aula3_Controles.csproj.GenerateResource.Cache
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\obj\x86\Debug\Aula3_Controles.exe
+C:\Users\LAB\Desktop\Aula3_Controles\Aula3_Controles\obj\x86\Debug\Aula3_Controles.pdb

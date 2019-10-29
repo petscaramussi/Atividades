@@ -1,0 +1,4 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Olá\Aula2_Olá\bin\Debug\Aula2_Olá.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Olá\Aula2_Olá\bin\Debug\Aula2_Olá.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Olá\Aula2_Olá\obj\x86\Debug\Aula2_Olá.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula2_Olá\Aula2_Olá\obj\x86\Debug\Aula2_Olá.pdb

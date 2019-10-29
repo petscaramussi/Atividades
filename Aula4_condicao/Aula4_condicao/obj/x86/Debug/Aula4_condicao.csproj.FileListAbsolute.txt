@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\bin\Debug\Aula4_condicao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\bin\Debug\Aula4_condicao.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\obj\x86\Debug\Aula4_condicao.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\obj\x86\Debug\Aula4_condicao.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\obj\x86\Debug\Aula4_condicao.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\obj\x86\Debug\Aula4_condicao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula4_condicao\Aula4_condicao\obj\x86\Debug\Aula4_condicao.pdb

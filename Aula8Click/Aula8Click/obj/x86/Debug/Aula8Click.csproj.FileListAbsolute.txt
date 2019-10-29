@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\bin\Debug\Aula8Click.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\bin\Debug\Aula8Click.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\obj\x86\Debug\Aula8Click.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\obj\x86\Debug\Aula8Click.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\obj\x86\Debug\Aula8Click.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\obj\x86\Debug\Aula8Click.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula8Click\Aula8Click\obj\x86\Debug\Aula8Click.pdb

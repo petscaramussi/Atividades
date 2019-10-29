@@ -1,0 +1,7 @@
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\obj\x86\Debug\Triangulos.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\obj\x86\Debug\Triangulos.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\obj\x86\Debug\Triangulos.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\obj\x86\Debug\Triangulos.exe
+c:\users\lab\documents\visual studio 2010\Projects\Triangulos\Triangulos\obj\x86\Debug\Triangulos.pdb

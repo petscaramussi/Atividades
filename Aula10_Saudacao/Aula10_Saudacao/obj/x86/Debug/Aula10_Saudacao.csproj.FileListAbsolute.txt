@@ -1,0 +1,20 @@
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\bin\Debug\Aula10_Saudacao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\bin\Debug\Aula10_Saudacao.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmInicio.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmSaudacao.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.csproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.exe
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmInicialização.resources
+c:\users\lab\documents\visual studio 2010\Projects\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.FrmCadastro.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.csprojAssemblyReference.cache
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.exe
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.pdb
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.FrmCadastro.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmInicialização.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmLogin.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.frmSaudacao.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.Properties.Resources.resources
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.csproj.GenerateResource.cache
+E:\C#\Aula10_Saudacao\Aula10_Saudacao\obj\x86\Debug\Aula10_Saudacao.csproj.CoreCompileInputs.cache
